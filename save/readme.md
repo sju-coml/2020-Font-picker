@@ -3,6 +3,5 @@
 - Converted Target Image
 - Category-vector
 - Pretrained-model (300 epochs)
-  - Encoder
-  - Decoder
   - Discriminator
+  - (Cannot upload pretrained Encoder and Decoder because of its massive size...)
